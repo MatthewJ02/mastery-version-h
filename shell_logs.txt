@@ -1,0 +1,500 @@
+   18  make clean
+   19  make debug
+   20  gdb
+   21  clear
+   22  make clean
+   23  make debug
+   24  make runner
+   25  gdb
+   26  quit
+   27  clear
+   28  git push
+   29  git pull
+   30  git push
+   31  git pull
+   32  git stash
+   33  git pull
+   34  git push
+   35  git push
+   36  cd mm-lab-MatthewJ02
+   37  make debug
+   38  gdb
+   39  gdb
+   40  gdb
+   41  clear
+   42  cd ..
+   43  git clone git@github.com:CS429-SP2025/shared-repo-version-g-MatthewJ02.git
+   44  git clone git@github.com:CS429-SP2025/shared-repo-version-g-MatthewJ02.git
+   45  ssh-keygen -t ed25519 -C "your_email@example.com"
+   46  ssh-keygen -t ed25519 -C mattjohnson0@hotmail.com
+   47  git clone git@github.com:CS429-SP2025/shared-repo-version-g-MatthewJ02.git
+   48  clear
+   49  git clone git@github.com:CS429-SP2025/shared-repo-version-g-MatthewJ02.git
+   50  ls -al ~/.ssh
+   51  ssh-add ~/.ssh/id_rsa\
+   52  ssh-add ~/.ssh/id_ed25519
+   53  eval "$(ssh-agent -s)"
+   54  ssh-add ~/.ssh/id_ed25519
+   55  git clone git@github.com:CS429-SP2025/shared-repo-version-g-MatthewJ02.git
+   56  git clone git@github.com:CS429-SP2025/shared-repo-version-g-MatthewJ02.git
+   57  ls
+   58  git clone git@github.com:CS429-SP2025/shared-repo-version-g-MatthewJ02.git
+   59  ssh -T git@github.com
+   60  sh-keygen -o -t rsa -C mattjohnson0@hotmail.com
+   61  ssh-keygen -o -t rsa -C mattjohnson0@hotmail.com
+   62  ssh-keygen -o -t rsa -C mattjohnson0@hotmail.com
+   63   ssh-add -l -E sha256
+   64  eval `ssh-agent -s`
+   65  ssh-add -l -E sha256
+   66  ssh-add u/matt315/.ssh/id_rsa
+   67  ls
+   68  cd ..
+   69  ls
+   70  cd matt315
+   71  ls
+   72  cd
+   73  cd ..
+   74  ls
+   75  cd ..
+   76  ls
+   77  cldar
+   78  clear
+   79  ls
+   80  cd u
+   81  cd matt315
+   82  ssh-add ~/.ssh/id_rsa
+   83  git clone git@github.com:CS429-SP2025/shared-repo-version-g-MatthewJ02.git
+   84  git clone git@github.com:CS429-SP2025/ci-lab-MatthewJ02.git
+   85  ssh-keygen -t ed25519 -C mattjohnson0@hotmail.com
+   86  eval "$(ssh-agent -s)"
+   87  ssh-add ~/.ssh/id_ed25519
+   88  git clone git@github.com:CS429-SP2025/ci-lab-MatthewJ02.git
+   89  git clone git@github.com:CS429-SP2025/ci-lab-MatthewJ02.git
+   90  git clone git@github.com:CS429-SP2025/se-lab-m.git
+   91  git clone git@github.com:CS429-SP2025/se-lab-m.git
+   92  cd se-lab-m
+   93  cd ..
+   94  ls
+   95  chmod +x bin/se-ref-wk*
+   96  chmod +x bin.se-ref-wk2
+   97  chmod +x bin/se-ref-wk2
+   98  chmod +x ./bin/se-ref-wk2
+   99  ls
+  100  cd se-lab-m
+  101  chmod +x bin/se-ref-wk*
+  102  man chmod
+  103  cd se-lab-m
+  104  make test_srcs
+  105  make test
+  106  ls
+  107  src/testbench/test-hw.0
+  108  src/testbench/test-hw.o
+  109  make clean
+  110  make clean
+  111  make
+  112  bin/test-hw -h
+  113  bin/test-hw
+  114  make
+  115  bin/test-hw
+  116  make
+  117  bin/test-hw
+  118  make
+  119  bin/test-hw
+  120  make
+  121  bin/test-hw
+  122  make
+  123  bin/test-hw
+  124  make
+  125  bin/test-hw
+  126  make
+  127  bin/test-hw
+  128  MAKE
+  129  make
+  130  bin/test-hw
+  131  make
+  132  bin/test-hw
+  133  make
+  134  bin/test-hw
+  135  make
+  136  bin/test-hw
+  137  make
+  138  bin/test-hw
+  139  make
+  140  bin/test-hw
+  141  make
+  142  bin/test-hw
+  143  make
+  144  bin/test-hw -v
+  145  bin/test-hw -v 2
+  146  make
+  147  bin/test-hw -v 2
+  148  make bin/test-hw
+  149  make
+  150  bin/test-hw -v 2
+  151  make
+  152  make
+  153  bin/test-hw -v 2
+  154  -h
+  155  bin/test-hw -h
+  156  bin/test-hw -v 1
+  157  make
+  158  bin/test-hw
+  159  bin/test-hw -v 1
+  160  bin/test-hw -v 2
+  161  make
+  162  bin/test-hw
+  163  bin/test-hw -v 2
+  164  make
+  165  bin/test-hw -v 
+  166  bin/test-hw -v 2
+  167  make
+  168  bin/test-hw
+  169  git push
+  170  git add .
+  171  git commit -m 
+  172  git commit -m "message"
+  173  git push
+  174  ls -a
+  175  cd .ssh
+  176  ls -a
+  177  cd .ssh
+  178  nano authorized_keys
+  179  cd .ssh
+  180  cd authorized
+  181  cd authorized
+  182  ls
+  183  cd authorized_keys
+  184  nano authorized_keys
+  185  cd se-lab-m
+  186  ls
+  187  quit
+  188  exit
+  189  exit
+  190  make clean
+  191  make
+  192  make clean
+  193  make
+  194  bin/test-se -v 3
+  195  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  196  bin/se     -i testcases/basics/add -c mine.ckpt
+  197  diff -u ref.ckpt mine.ckpt
+  198  bin/se-ref-wk2  -i  testcases/basics/basic -c ref.ckpt
+  199  bin/se     -i testcases/basics/basic -c mine.ckpt
+  200  diff -u ref.ckpt mine.ckpt
+  201  make clean
+  202  make
+  203  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  204  bin/se     -i testcases/basics/add -c mine.ckpt
+  205  diff -u ref.ckpt mine.ckpt
+  206  make
+  207  make clean
+  208  make
+  209  bin/test-se -v 3
+  210  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  211  bin/se     -i testcases/basics/add -c mine.ckpt
+  212  diff -u ref.ckpt mine.ckpt
+  213  make
+  214  bin/test-se -v 3
+  215  make clean
+  216  make
+  217  bin/test-se
+  218  make clean
+  219  make
+  220  bin/test-se -v 3
+  221  bin/se-ref-wk2  -i  testcases/basics/basic  -c  ref.ckpt
+  222  bin/se     -i testcases/basics/basic -c mine.ckpt
+  223  diff -u ref.ckpt mine.ckpt
+  224  make
+  225  bin/se-ref-wk2  -i  testcases/basics/basic  -c  ref.ckpt
+  226  bin/se     -i testcases/basics/basic -c mine.ckpt
+  227  diff -u ref.ckpt mine.ckpt
+  228  make
+  229  bin/se-ref-wk2  -i  testcases/basics/basic  -c  ref.ckpt
+  230  bin/se     -i testcases/basics/basic -c mine.ckpt
+  231  diff -u ref.ckpt mine.ckpt
+  232  malke
+  233  make clean
+  234  make
+  235  bin/se-ref-wk2  -i  testcases/basics/basic  -c  ref.ckpt
+  236  bin/se     -i testcases/basics/basic -c mine.ckpt
+  237  diff -u ref.ckpt mine.ckpt
+  238  make
+  239  bin/se-ref-wk2  -i  testcases/basics/basic  -c  ref.ckpt
+  240  bin/se     -i testcases/basics/basic -c mine.ckpt
+  241  diff -u ref.ckpt mine.ckpt
+  242  bin/se -i testcases/basics/add -v 2 | head -n 30
+  243  bin/se -i testcases/basics/add -v 2 | head -n 70
+  244  make clean
+  245  make
+  246  bin/se -i testcases/basics/add -v 2 | head -n 70
+  247  bin/se-ref-wk2 -i testcases/basics/add -v 2 | head -n 70
+  248  make clean
+  249  make
+  250  bin/test-se -v 3
+  251  bin/se-ref-wk2 -i testcases/basics/add -v 2 | head -n 70
+  252  bin/se -i testcases/basics/add -v 2 | head -n 70
+  253  make clean
+  254  make week2
+  255  bin/test-se
+  256  make clean
+  257  make week2
+  258  bin/test-se -v 3
+  259  make verify
+  260  make
+  261  make
+  262  make
+  263  make
+  264  make
+  265  make clean
+  266  make
+  267  -h
+  268  test.se -h
+  269  make test.se
+  270  make week2
+  271  make se
+  272  make test
+  273  test.se
+  274  test.se.o
+  275  ./test-se
+  276  make cleaan
+  277  make clean
+  278  make
+  279  make clean
+  280  make
+  281  bin/test-se -v
+  282  bin/test-se -v 2
+  283  bin/test-se -v 3
+  284  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  285  bin/se     -i testcases/basics/add -c mine.ckpt
+  286  diff -u ref.ckpt mine.ckpt
+  287  gdb
+  288  gdb
+  289  gdb
+  290  make clean
+  291  make
+  292  bin/test-se -v 3
+  293  gdb
+  294  gdb
+  295  gdb bin/se
+  296  make clean
+  297  make
+  298  bin/test-se
+  299  bin/test-se -v 2
+  300  gdb bin/se
+  301  make clean
+  302  make
+  303  bin/test-se
+  304  bin/test-se -v 3
+  305  gdb bin/se
+  306  make
+  307  make clea
+  308  make clean
+  309  make
+  310  bin/test-se -v 3
+  311  gdb bin/se
+  312  make clean
+  313  make
+  314  bin/test-se -v 3
+  315  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  316  bin/se     -i testcases/basics/add -c mine.ckpt
+  317  diff -u ref.ckpt mine.ckpt
+  318  make clean
+  319  make
+  320  bin/test-se -v 3
+  321  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  322  bin/se     -i testcases/basics/add -c mine.ckpt
+  323  diff -u ref.ckpt mine.ckpt
+  324  bin/test-hw
+  325  make clean
+  326  make
+  327  bin/test-se -v 3
+  328  make clean
+  329  make
+  330  bin/test-se -v 3
+  331  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  332  bin/se     -i testcases/basics/add -c mine.ckpt
+  333  diff -u ref.ckpt mine.ckpt
+  334  make clean
+  335  make
+  336  bin/test-se -v 3
+  337  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  338  bin/se     -i testcases/basics/add -c mine.ckpt
+  339  diff -u ref.ckpt mine.ckpt
+  340  make clean
+  341  make
+  342  bin/test-se -v 3
+  343  make clean
+  344  make
+  345  bin/test-se -v 3
+  346  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  347  bin/se     -i testcases/basics/add -c mine.ckpt
+  348  diff -u ref.ckpt mine.ckpt
+  349  make clean
+  350  make
+  351  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  352  bin/se     -i testcases/basics/add -c mine.ckpt
+  353  diff -u ref.ckpt mine.ckpt
+  354  make clean
+  355  make
+  356  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  357  bin/se     -i testcases/basics/add -c mine.ckpt
+  358  diff -u ref.ckpt mine.ckpt
+  359  make
+  360  make clean
+  361  make 
+  362  bin/test-se
+  363  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  364  bin/se     -i testcases/basics/add -c mine.ckpt
+  365  diff -u ref.ckpt mine.ckpt
+  366  make clean
+  367  make
+  368  bin/test-se -v 3
+  369  bin/se-ref-wk2  -i  testcases/basics/add  -c  ref.ckpt
+  370  bin/se     -i testcases/basics/add -c mine.ckpt
+  371  diff -u ref.ckpt mine.ckpt
+  372  bin/test-se
+  373  exit
+  374  touch ~/.gdbinit
+  375  ls -a
+  376  echo "set history save on"
+  377  echo "set history save on" > ./gdbinit
+  378  cat ./gdbinit
+  379  git clone git@github.com:CS429-SP2025/mastery-version-f.git
+  380  git-keygen
+  381  ssh-keygen
+  382  cat .ssh/id_rsa.pub
+  383  git clone git@github.com:CS429-SP2025/mastery-version-f.git
+  384  ls
+  385  make
+  386  make check
+  387  gdb bin/a.out -t testcases/short1.rep
+  388  gdb bin/a.out testcases/short1.rep
+  389  gdb bin/a.out
+  390  make debug
+  391  make clean
+  392  make debug
+  393  gdb bin/a.out
+  394  make clean
+  395  make debug
+  396  gdb bin/a.out
+  397  gdb bin/a.out
+  398  ls
+  399  cd testcases
+  400  ls
+  401  cd ..
+  402  gdb bin/a.out
+  403  make clean
+  404  clear
+  405  make
+  406  make check
+  407  gdb bin/a.out
+  408  clear
+  409  make clean
+  410  make debug
+  411  gdb bin/a.out
+  412  gdb bin/a.out
+  413  gdb bin/a.out
+  414  make clean
+  415  clear
+  416  make check
+  417  make clean
+  418  make check
+  419  make clean
+  420  make debug
+  421  gdb bin/a.out
+  422  ref.out -t testcases/short2.rep
+  423  make clean
+  424  make comp
+  425  history
+  426  history > shell_logs.txt
+  427  touch gdb_logs.txt
+  428  gdb
+  429  git status
+  430  cd ..
+  431  ls -a
+  432  cat gdbinit
+  433  cat .gdbinit
+  434  git add .
+  435  git add.
+  436  git ass
+  437  git add
+  438  git add .
+  439  cd mastery-version-f
+  440  git add .
+  441  git status
+  442  git commit -m "Finished"
+  443  git push
+  444  git status
+  445  clear
+  446  git clone git@github.com:MatthewJ02/mastery-version-g.git
+  447  make clean
+  448  make
+  449  make check
+  450  gdb bin/a.out
+  451  clear
+  452  make clean
+  453  make debug
+  454  gdb bin/a.out
+  455  gdb bin/a.out
+  456  make comp
+  457  gdb bin/a.out
+  458  make debug
+  459  make clean
+  460  clear
+  461  make debug
+  462  gdb bin/a.out
+  463  make clean
+  464  make check
+  465  make comp
+  466  echo history > shell_logs.txt
+  467  history > shell_logs.txt
+  468  gdb
+  469  cd..
+  470  cd ..
+  471  ls -a
+  472  cat .gdbinit
+  473  echo "set save history on" > .gdbinit
+  474  gdb
+  475  cd mastery-version-g
+  476  gdb bin/a.out
+  477  cd ..
+  478  echo "set history save on
+  479  echo "set history save on" > .gdbinit
+  480  cd mastery-version-g
+  481  gdb bin/a.out
+  482  gdb
+  483  touch gdb_logs.txt
+  484  git status
+  485  git add .
+  486  git status
+  487  git commit -m "Finished"
+  488  git push
+  489  cd ..
+  490  rm -rf mastery-version-g
+  491  rm -rg mastery-version-f
+  492  rm -rf mastery-version-f
+  493  ls
+  494  exit
+  495  touch ~/.gdbinit
+  496  echo "set history save on
+  497  echo "set history save on" > .gdbinit
+  498  cat .gdbinit
+  499  exit
+  500  git clone git@github.com:MatthewJ02/mastery-version-h.git
+  501  make clean
+  502  make check
+  503  make
+  504  make clean
+  505  make
+  506  make check
+  507  make clean
+  508  make debug
+  509  gdb bin/a.out
+  510  make clean
+  511  make comp
+  512  make check
+  513  make clean
+  514  make debug
+  515  gdb bin/a.out
+  516  make comp
+  517  history > shell_logs.txt
