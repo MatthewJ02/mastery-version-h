@@ -1,0 +1,4 @@
+    1  run -t testcases/short2.rep
+    2  q
+    3  q
+    4  show commands
