@@ -1,0 +1,500 @@
+   14  git clone git@github.com:MatthewJ02/mastery-version-alpha.git
+   15  exit
+   16  make cobra
+   17  make nani
+   18  make cobra
+   19  make lilo
+   20  gdb bin/second_trie
+   21  make cobra
+   22  make nani
+   23  history > shell_logs.txt
+   24  git add .
+   25  git commit -m "Finished"
+   26  git push
+   27  cd ..
+   28  rm -rf mastery-version-alpha
+   29  git clone git@github.com:MatthewJ02/mastery-version-beta.git
+   30  exit
+   31  make nalo
+   32  make tamatoa
+   33  make nalo
+   34  make maui
+   35  gdb bin/second_trie
+   36  make nalo
+   37  make tamatoa
+   38  history > shell_logs.txt
+   39  git add .
+   40  git commit -m "Finished"
+   41  git push
+   42  cd ..
+   43  rm -rf mastery-version-beta
+   44  git clone git@github.com:MatthewJ02/mastery-version-gamma.git
+   45  exit
+   46  make happy
+   47  make grumpy
+   48  make happy
+   49  make doc
+   50  gdb bin/second_trie
+   51  make gappy
+   52  make happy
+   53  make grumpy
+   54  history > shell_logs.txt
+   55  git add .
+   56  git commit -m "Finished"
+   57  git push
+   58  cd ..
+   59  rm -rf mastery-version-gamma
+   60  touch .gdbinit
+   61  echo "set history save on" > .gdbinit
+   62  cat .gdbinit
+   63  git clone git@github.com:MatthewJ02/mastery-version-a.git
+   64  exit
+   65  make clean
+   66  make check
+   67  make clean
+   68  make debug
+   69  gdb mini_ci
+   70  make clean
+   71  make check
+   72  make clean
+   73  make debug
+   74  gdb mini_ci
+   75  make clean
+   76  make check
+   77  history > shell_logs.txt
+   78  gdb
+   79  touch gdb_logs.txt
+   80  git add .
+   81  git commit -m "Finished"
+   82  git push
+   83  cd ..
+   84  rm -rf mastery-version-a
+   85  touch .gdbinit
+   86  echo "set history save on" > .gdbinit
+   87  git clone git@github.com:MatthewJ02/mastery-version-b.git
+   88  exit
+   89  make cclean
+   90  make clean
+   91  make check
+   92  make clean
+   93  make debug
+   94  gdb mini_ci
+   95  make clean
+   96  make check
+   97  make clean
+   98  make debug
+   99  gdb mini_ci
+  100  make clean
+  101  make check
+  102  history > shell_logs.txt
+  103  touch gdb_logs.txt
+  104  gdb
+  105  git add .
+  106  git status
+  107  git commit -m "Finished"
+  108  git push
+  109  cd ..
+  110  rm -rf mastery-version-b
+  111  touch .gdbinit
+  112  echo "set history save on" > .gdbinit
+  113  cat .gdbinit
+  114  git clone git@github.com:MatthewJ02/mastery-version-c.git
+  115  exit
+  116  make clean
+  117  make check
+  118  make clean
+  119  make debug
+  120  gdb mini_ci
+  121  make clean
+  122  make check
+  123  history > shell_logs.txt
+  124  show commands
+  125  touch gdb_logs.txt
+  126  gdb
+  127  git status
+  128  git add .
+  129  git status
+  130  git commit -m "Finished"
+  131  git push
+  132  cd ..
+  133  rm -rf mastery-version-c
+  134  touch .gdbinit
+  135  echo "set history save on" > .gdbinit
+  136  git clone git@github.com:MatthewJ02/mastery-version-e.git
+  137  exit
+  138  make clean
+  139  make check
+  140  make clean
+  141  make debug
+  142  gdb mini_ci
+  143  make clean
+  144  make check
+  145  history > shell_logs.txt
+  146  touch gdb_logs.txt
+  147  gdb
+  148  q
+  149  git add .
+  150  git status
+  151  git commit -m "Finished"
+  152  git push
+  153  cd ..
+  154  rm -rf mastery-version-e
+  155  touch .gdbinit
+  156  echo "set history save on" > .gdbinit
+  157  git clone git@github.com:MatthewJ02/mastery-version-f.git
+  158  exit
+  159  make clean
+  160  make comp
+  161  make cclean
+  162  make clean
+  163  make debug
+  164  gdb bin/a.out
+  165  make clean
+  166  make comp
+  167  history > shell_logs.txt
+  168  touch gdb_logs.txt
+  169  gdb
+  170  y
+  171  git status
+  172  git add .
+  173  git status
+  174  git commit -m "Finished"
+  175  git push
+  176  cd ..
+  177  rm -rf mastery-version-f
+  178  touch .gdbinit
+  179  echo "set history save on" > .gdbinit
+  180  git clone git@github.com:MatthewJ02/mastery-version-g.git
+  181  exit
+  182  make clean
+  183  make comp
+  184  make clean
+  185  make debug
+  186  gdb bin/a.out
+  187  make clean
+  188  make check
+  189  make comp
+  190  history > shell_logs.txt
+  191  touch gdb_logs.txt
+  192  gdb
+  193  git status
+  194  git ad .
+  195  git add .
+  196  git commit -m "finished"
+  197  git push
+  198  cd ..
+  199  rm -rf mastery-version-g
+  200  touch .gdbinit
+  201  echo "set history save on" > .gdbinit
+  202  git clone git@github.com:MatthewJ02/mastery-version-h.git
+  203  exit
+  204  make clean
+  205  make comp
+  206  make clean
+  207  make debug
+  208  gdb bin/a.out
+  209  make clean
+  210  make comp
+  211  make clean
+  212  make debug
+  213  gdb bin/a.out
+  214  make clean
+  215  make check
+  216  make comp
+  217  history > shell_logs.txt
+  218  touch gdb_logs.txt
+  219  gdb
+  220  git add .
+  221  git commit -m "Finished"
+  222  git push
+  223  cd ..
+  224  rm -rf mastery-version-h
+  225  git clone git@github.com:MatthewJ02/mastery-version-alpha.git
+  226  exit
+  227  make cobra
+  228  make nani
+  229  make cobra
+  230  make lilo
+  231  gdb bin/second_trie
+  232  make clean
+  233  make cobra
+  234  make nani
+  235  history > shell_logs.txt
+  236  git add .
+  237  git commit -m "Finished"
+  238  git push
+  239  cd ..
+  240  rm -rf mastery-version-alpha
+  241  git clone git@github.com:MatthewJ02/mastery-version-beta.git
+  242  exit
+  243  make nalo
+  244  make tamatoa
+  245  make nalo
+  246  make maui
+  247  gdb bin/second_trie
+  248  make nalo
+  249  make tamatoa
+  250  history > shell_logs.txt
+  251  git add .
+  252  git commit -m "Finished
+  253  git commit -m "Finished"
+  254  git push
+  255  cd ..
+  256  rm -rf mastery-version-beta
+  257  exit
+  258  exit
+  259  git clone git@github.com:MatthewJ02/mastery-version-gamma.git
+  260  exit
+  261  make happy
+  262  make grumpy
+  263  make happy
+  264  make doc
+  265  gdb bin/second_trie
+  266  make happy
+  267  make grumpy
+  268  make happy
+  269  make doc
+  270  gdb bin/second_trie
+  271  make happy
+  272  make grumpy
+  273  history > shell_logs.txt
+  274  git add .
+  275  git commit -m 
+  276  git commit -m "Finished"
+  277  git push
+  278  cd ..
+  279  rm -rf mastery-version-gamma
+  280  git clone git@github.com:MatthewJ02/mastery-version-a.git
+  281  exit
+  282  make clean
+  283  make check
+  284  make clean
+  285  make debug
+  286  gdb mini_ci
+  287  make clean
+  288  make check
+  289  make clean
+  290  make debug
+  291  make clean
+  292  make debug
+  293  gdb mini_ci
+  294  make clean
+  295  make check
+  296  history > shell_logs.txt
+  297  git add .
+  298  git commit -m "Finished"
+  299  git push
+  300  cd ..
+  301  rm -rf mastery-version-a
+  302  git clone git@github.com:MatthewJ02/mastery-version-b.git
+  303  exit
+  304  make clean
+  305  make check
+  306  make clean
+  307  make debug
+  308  gdb mini_ci
+  309  make clean
+  310  make check
+  311  make clean
+  312  make debug
+  313  gdb mini_ci
+  314  gdb mini_ci
+  315  make clean
+  316  make chck
+  317  make check
+  318  history > shell_logs.txt
+  319  git add .
+  320  git commit -m "Finished"
+  321  git push
+  322  c d..
+  323  cd ..
+  324  rm -rf mastery-version-b
+  325  git clone git@github.com:MatthewJ02/mastery-version-c.git
+  326  exit
+  327  make clean
+  328  make check
+  329  make clean
+  330  make debug
+  331  gdb mini_ci
+  332  make clean
+  333  make check
+  334  history > shell_logs.txt
+  335  git add .
+  336  git commit -m "Finished
+  337  git commit -m "Finished"
+  338  git push
+  339  cd ..
+  340  rm -rf mastery-version-c
+  341  git clone git@github.com:MatthewJ02/mastery-version-e.git
+  342  exit
+  343  make clean
+  344  make check
+  345  make clean
+  346  make debug
+  347  gdb mini_ci
+  348  make clean
+  349  make check
+  350  history > shell_logs.txt
+  351  git add .
+  352  git commit -m "Finished"
+  353  git push
+  354  cd ..
+  355  rm -rf mastery-version-e
+  356  git clone git@github.com:MatthewJ02/mastery-version-f.git
+  357  exit
+  358  make clean
+  359  make comp
+  360  make clean
+  361  make debug
+  362  gdb bin/a.out
+  363  gdb bin/a.out
+  364  make clean
+  365  make comp
+  366  history > shell_logs.txt
+  367  git add .
+  368  git commit -m "Finished"
+  369  git push
+  370  cd ..
+  371  rm -rf mastery-version-f
+  372  git clone git@github.com:MatthewJ02/mastery-version-g.git
+  373  exit
+  374  make clean
+  375  make comp
+  376  make clean
+  377  make debug
+  378  gdb bin/a.out
+  379  make clean
+  380  make comp
+  381  history > shell_logs.txt
+  382  git add .
+  383  git commit -m "Finished"
+  384  git push
+  385  cd ..
+  386  rm -rf mastery-version-g
+  387  git clone git@github.com:MatthewJ02/mastery-version-h.git
+  388  exit
+  389  make clean
+  390  make comp
+  391  make clean
+  392  make debug
+  393  gdb bin/a.out
+  394  make clean
+  395  make comp
+  396  make clean
+  397  make debug
+  398  gdb bin/a.out
+  399  make clean
+  400  make comp
+  401  history > shell_logs.txt
+  402  git status
+  403  git add .
+  404  git commit -m "Finished"
+  405  git push
+  406  cd ..
+  407  rm -rf mastery-version-g
+  408  rm -rf mastery-version-h
+  409  ls
+  410  git clone git@github.com:MatthewJ02/mastery-version-alpha.git
+  411  exit
+  412  make cobra
+  413  make nani
+  414  make cobra
+  415  make lilo
+  416  gdb bin/second_trie
+  417  make cobra
+  418  make nani
+  419  history > shell_logs.txt
+  420  git add .
+  421  git commit -m "Finished"
+  422  git push
+  423  cd ..
+  424  rm -rf mastery-version-alpha
+  425  git clone git@github.com:MatthewJ02/mastery-version-beta.git
+  426  exit
+  427  make nalo
+  428  make tamatoa
+  429  make nalo
+  430  make maui
+  431  gdb bin/second_trie
+  432  y
+  433  make nalo
+  434  make tamatoa
+  435  history > shell_logs.txt
+  436  git add .
+  437  git commit -m "Finished"
+  438  git push
+  439  cd ..
+  440  rm -rf mastery-version-beta
+  441  git clone git@github.com:MatthewJ02/mastery-version-gamma.git
+  442  exit
+  443  make happy
+  444  make grumpy
+  445  make happy
+  446  make docc
+  447  make doc
+  448  gdb bin/second_trie
+  449  make happy
+  450  make grumpy
+  451  make happy
+  452  make doc
+  453  gdb bin/second_trie
+  454  make happy
+  455  make grumpy
+  456  history > shell_logs.txt
+  457  git add .
+  458  git commit -m "Finished"
+  459  git push
+  460  cd ..
+  461  rm -rf mastery-version-gamma
+  462  git clone git@github.com:MatthewJ02/mastery-version-gamma.git
+  463  exit
+  464  make happy
+  465  make grumpy
+  466  make happy
+  467  make doc
+  468  gdb bin/second_trie
+  469  make happy
+  470  make grumpy
+  471  make happy
+  472  make doc
+  473  gdb bin/second_trie
+  474  make happy
+  475  make grumpy
+  476  history > shell_logs.txt
+  477  git add .
+  478  git commit -m "Finished"
+  479  git push
+  480  cd ..
+  481  rm -rf mastery-version-gamma
+  482  git clone git@github.com:MatthewJ02/mastery-version-alpha.git
+  483  exit
+  484  make cobra
+  485  make nani
+  486  make cobra
+  487  make lilo
+  488  gdb bin/second_trie
+  489  make cobra
+  490  make nani
+  491  history > shell_logs.txt
+  492  git add .
+  493  git commit -m "Finished"
+  494  git push
+  495  cd ..
+  496  rm -rf mastery-version-alpga
+  497  rm -rf mastery-version-alpha
+  498  git clone git@github.com:MatthewJ02/mastery-version-h.git
+  499  eixt
+  500  exit
+  501  make clean
+  502  make comp
+  503  make clean
+  504  make debug
+  505  gdb bin/a.out
+  506  make clean
+  507  make comp
+  508  make clean
+  509  make debug
+  510  gdb bin/a.out
+  511  make clean
+  512  make comp
+  513  history > shell_logs.txt
